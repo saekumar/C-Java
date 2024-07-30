@@ -1,0 +1,175 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "NextGreateElement",
+      "request": "launch",
+      "mainClass": "Tutorial1.stacks.NextGreateElement",
+      "projectName": "C++_29dc7f3d"
+    },
+    {
+      "type": "java",
+      "name": "MiStack",
+      "request": "launch",
+      "mainClass": "Tutorial1.stacks.MiStack",
+      "projectName": "C++_29dc7f3d"
+    },
+    {
+      "type": "java",
+      "name": "InfixToPostfix",
+      "request": "launch",
+      "mainClass": "Tutorial1.stacks.InfixToPostfix",
+      "projectName": "C++_29dc7f3d"
+    },
+    {
+      "type": "java",
+      "name": "BalancingBracket",
+      "request": "launch",
+      "mainClass": "Tutorial1.stacks.BalancingBracket",
+      "projectName": "C++_29dc7f3d"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilderproblem",
+      "request": "launch",
+      "mainClass": "Tutorial1.strings.StringBuilderproblem",
+      "projectName": "C++_29dc7f3d"
+    },
+    {
+      "type": "java",
+      "name": "StringBasics",
+      "request": "launch",
+      "mainClass": "Tutorial1.strings.StringBasics",
+      "projectName": "C++_29dc7f3d"
+    },
+    {
+      "type": "java",
+      "name": "Shoes",
+      "request": "launch",
+      "mainClass": "Tutorial1.Math.Shoes",
+      "projectName": "C++_29dc7f3d"
+    },
+    {
+      "type": "java",
+      "name": "ProdSum",
+      "request": "launch",
+      "mainClass": "Tutorial1.Math.ProdSum",
+      "projectName": "C++_29dc7f3d"
+    },
+    {
+      "type": "java",
+      "name": "Woj",
+      "request": "launch",
+      "mainClass": "Tutorial1.Woj",
+      "projectName": "C++_8d23b510"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Tutorial1.LinkedList.Main",
+      "projectName": "C++_8d23b510"
+    },
+    {
+      "type": "java",
+      "name": "Sliding_Window",
+      "request": "launch",
+      "mainClass": "Tutorial1.Sliding_Window",
+      "projectName": "C++_8d23b510"
+    },
+    {
+      "type": "java",
+      "name": "Trial",
+      "request": "launch",
+      "mainClass": "Tutorial1.Trial",
+      "projectName": "C++_8d23b510"
+    },
+    {
+      "type": "java",
+      "name": "Saikumar234",
+      "request": "launch",
+      "mainClass": "Tutorial1.Saikumar234",
+      "projectName": "C++_8d23b510"
+    },
+    {
+      "type": "java",
+      "name": "Saikumar279",
+      "request": "launch",
+      "mainClass": "Tutorial1.Saikumar279",
+      "projectName": "C++_8d23b510"
+    },
+    {
+      "type": "java",
+      "name": "Red_Bblue",
+      "request": "launch",
+      "mainClass": "Tutorial1.Red_Bblue",
+      "projectName": "C++_8d23b510"
+    },
+    {
+      "type": "java",
+      "name": "Xyz",
+      "request": "launch",
+      "mainClass": "Tutorial1.Xyz",
+      "projectName": "C++_8d23b510"
+    },
+    {
+      "type": "java",
+      "name": "Hash_Map",
+      "request": "launch",
+      "mainClass": "Tutorial1.Hash_Map",
+      "projectName": "C++_8d23b510"
+    },
+    {
+      "type": "java",
+      "name": "Stack_rev",
+      "request": "launch",
+      "mainClass": "Tutorial1.Stack_rev",
+      "projectName": "C++_8d23b510"
+    },
+    {
+      "type": "java",
+      "name": "Startt",
+      "request": "launch",
+      "mainClass": "Tutorial1.Startt",
+      "projectName": "C++_8d23b510"
+    },
+    {
+      "name": "C/C++: g++.exe build and debug active file",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ],
+      "preLaunchTask": "C/C++: g++.exe build active file"
+    },
+    {
+      "name": "(Windows) Launch",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "enter program name, for example ${workspaceFolder}/a.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "console": "externalTerminal"
+    }
+  ],
+  "version": "2.0.0"
+}
