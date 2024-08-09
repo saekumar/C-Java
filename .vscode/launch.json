@@ -2,6 +2,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DigitOccu",
+      "request": "launch",
+      "mainClass": "Tutorial1.Math.DigitOccu",
+      "projectName": "C++_29dc7f3d"
+    },
+    {
+      "type": "java",
+      "name": "JumpGame",
+      "request": "launch",
+      "mainClass": "Tutorial1.Greedy.JumpGame",
+      "projectName": "C++_29dc7f3d"
+    },
+    {
+      "type": "java",
+      "name": "NMeetingOneRoom",
+      "request": "launch",
+      "mainClass": "Tutorial1.Greedy.NMeetingOneRoom",
+      "projectName": "C++_29dc7f3d"
+    },
+    {
+      "type": "java",
+      "name": "JobSequencingProblem",
+      "request": "launch",
+      "mainClass": "Tutorial1.Greedy.JobSequencingProblem",
+      "projectName": "C++_29dc7f3d"
+    },
+    {
+      "type": "java",
       "name": "NextGreateElement",
       "request": "launch",
       "mainClass": "Tutorial1.stacks.NextGreateElement",

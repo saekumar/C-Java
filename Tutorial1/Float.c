@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main() {
-   float *ptr;
-   printf("Size  %lu bytes",sizeof(ptr));
-   
-   
+   int i =5;
+   printf("%d%d%d%d%d",i++,i--,++i,--i,i);
     return 0;
 }
